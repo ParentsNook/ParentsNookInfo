@@ -24,7 +24,8 @@
     "yarn": "^1.22.19"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.1.0"
+    "@docusaurus/module-type-aliases": "2.1.0",
+    "gh-pages": "^4.0.0"
   },
   "browserslist": {
     "production": [

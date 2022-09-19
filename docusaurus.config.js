@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Parents Nook FAQ',
   //tagline: 'Dinosaurs are cool',
-  url: 'https://parents_nook.github.io',
+  url: 'https://ParentsNook.github.io',
   baseUrl: '/parents_nook.github.io/',
   projectName: 'parents_nook.github.io',
   organizationName: 'ParentsNook',
