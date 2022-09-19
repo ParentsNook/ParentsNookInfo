@@ -15,13 +15,7 @@ Welcome! This site provides documentation, research and work we are doing for Pa
 
 If our work and research work interests you we would love to hear from you. Any feedback/suggestions are very much appreciated as we build together. Reach out to us play@parents-nook.com
 
-<ul>
 
-<li><a href="what we do">What we do?</a></li>
-<li><a href="#what is a Nook?">what is a Nook?</a></li>
-<li><a href="#How you may participate?">How you may participate?</a></li>
-<li><a href="#something-missing">Something Missing?</a></li>
-</ul>
 
 
 

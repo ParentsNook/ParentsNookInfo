@@ -1,5 +1,5 @@
 ---
-id: What we do
+id: Whatwedo
 title: What we do
 sidebar_label: What we do
 sidebar_position: 3

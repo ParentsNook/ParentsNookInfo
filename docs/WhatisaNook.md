@@ -1,5 +1,5 @@
 ---
-id: What is a Nook
+id: WhatisaNook
 title: What is a Nook
 sidebar_label: What is a Nook
 sidebar_position: 4

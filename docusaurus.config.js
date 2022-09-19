@@ -12,6 +12,7 @@ const config = {
   baseUrl: '/parents_nook.github.io/',
   projectName: 'parents_nook.github.io',
   organizationName: 'ParentsNook',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

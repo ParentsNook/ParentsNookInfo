@@ -1,5 +1,5 @@
 ---
-id: How you may participate
+id: Howyoumayparticipate
 title: How you may participate
 sidebar_label: How you may participate
 sidebar_position: 5
