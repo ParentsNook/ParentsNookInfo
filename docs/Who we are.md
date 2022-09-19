@@ -1,5 +1,5 @@
 ---
-id: Whoweare
+id: Who we are
 title: Who we are 
 sidebar_label: Who we are
 sidebar_position: 2
